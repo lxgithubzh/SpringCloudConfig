@@ -1,0 +1,6 @@
+info:
+  profile: dev
+  from: git
+name: lixin
+age: 20
+sayHi: hello
