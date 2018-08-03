@@ -1,7 +1,7 @@
-info:
-  profile: dev
-  from: git
-name: lixin
-age: 20
-sayHi: hello
-foo: foo version 3
+userInfo:
+  name: lixin
+  age: 26 
+  sex: male
+  height: 173cm
+  weight: 70kg
+  hobbies: 户外、音乐、电游
