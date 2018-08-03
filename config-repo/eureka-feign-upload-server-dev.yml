@@ -4,3 +4,4 @@ info:
 name: lixin
 age: 20
 sayHi: hello
+foo: foo version 3
