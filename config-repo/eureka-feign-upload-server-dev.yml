@@ -8,6 +8,6 @@ userInfo:
 spring:
   datasource:
     username: lixin
-    password: '{cipher}88c658bd541022a6a2f178465014fbbe6ea6aa50119a378e14b96126fbc6aec0'
+    password: '{cipher}AQAoWqtSuiPH3qypw3CrRIu5jZOKJhIukbmPLJTGYNQ3FwbuM+oKKNLrrRHY8+XLc+6f+zzGt3Yxjiiuv+sMXlxTptmqIAEaW2SvPUsKq84q53OjOsBHZEagi/pcMIAknUshcDW7/ihvn05ya1uKMDNQECLlNpJKfZmTTPn/h7U8EKzYkmE1K9i5duSGC2J6tPKV0jrFG1mZqUdcXfcbJzyqEnTfsF79w4HfnwYvzM01Kd+bXCpywHBIp37emPzWCQGLbqo0mWW1SWQKHmnOj8yLreAGLTwRENCYbbUzt1C+IbdSc+a8R+4IjxxdzLAQ27mmr/zn51SpujEkSAq3HSIXfV9uPC7x1JQK/3reUmCnLEPEdns0GJ7AwCvXM4j1h1k='
 
 
