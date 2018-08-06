@@ -5,3 +5,7 @@ userInfo:
   height: 173cm
   weight: 70kg
   hobbies: 户外、音乐、电游
+spring:
+  datasource:
+    username: lixin
+    password: {cipher}88c658bd541022a6a2f178465014fbbe6ea6aa50119a378e14b96126fbc6aec0
