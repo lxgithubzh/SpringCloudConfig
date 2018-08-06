@@ -9,8 +9,6 @@ spring:
   datasource:
     username: lixin
     password: '{cipher}AQBmE43LzI5ecoVgdb+Hqsa9tiBsmDhQbIz513vYtNgMOnI52AhML9gdhnJV+8Ti78nLEyxIIiVTysxyfbbh+9IyAEobLZHEhoNjbJY72JHXNQkPtn9Z+vaF0kjETqv7PAbJux+ahGx7MbHFNChSQqfao9WJUlX682Cj/Ony40KQ4Nc7o3LF12RHrR23pIlx11lQUlfGIIO4PhmHPtIYTz/SrAjC+MqrPlGAuKZpjpOXhenHOgppo7JhxarBVnwKUDbPrCnb6/YMVLKe7RXdOP8T4P1IJYpTHXvjP21OEfUuqf903ZaSnoIjJ7TYIeteuHN/IWE+B6iCiXOPrZcw3d1MF6XGxVC80xu/3k8+TKkx75M6DTt+AcaK7usnpNwnq3Y='
-info:
-  profile: dev
-  from: git-dev-1.0
+
 
 
